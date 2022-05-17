@@ -1,6 +1,6 @@
 package com.sryzzz.book.controller;
 
-import com.sryzzz.book.model.domain.Book;
+import com.sryzzz.model.domain.Book;
 import com.sryzzz.book.service.BookService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

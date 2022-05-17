@@ -1,6 +1,6 @@
 package com.sryzzz.user.controller;
 
-import com.sryzzz.user.model.domain.User;
+import com.sryzzz.model.domain.User;
 import com.sryzzz.user.service.UserService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

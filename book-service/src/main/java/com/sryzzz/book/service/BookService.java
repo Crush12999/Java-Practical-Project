@@ -1,6 +1,6 @@
 package com.sryzzz.book.service;
 
-import com.sryzzz.book.model.domain.Book;
+import com.sryzzz.model.domain.Book;
 
 /**
  * @author: sryzzz

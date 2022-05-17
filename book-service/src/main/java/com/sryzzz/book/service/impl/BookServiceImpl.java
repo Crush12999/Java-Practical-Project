@@ -1,7 +1,7 @@
 package com.sryzzz.book.service.impl;
 
 import com.sryzzz.book.mapper.BookMapper;
-import com.sryzzz.book.model.domain.Book;
+import com.sryzzz.model.domain.Book;
 import com.sryzzz.book.service.BookService;
 import org.springframework.stereotype.Service;
 

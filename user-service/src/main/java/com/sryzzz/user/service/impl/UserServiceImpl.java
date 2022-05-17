@@ -1,7 +1,7 @@
 package com.sryzzz.user.service.impl;
 
 import com.sryzzz.user.mapper.UserMapper;
-import com.sryzzz.user.model.domain.User;
+import com.sryzzz.model.domain.User;
 import com.sryzzz.user.service.UserService;
 import org.springframework.stereotype.Service;
 
@@ -25,7 +25,7 @@ public class UserServiceImpl implements UserService {
      * @return 用户实例
      */
     @Override
-    public User getUserById(int uid) {
+    public User getUserById(Integer uid) {
         return userMapper.getUserById(uid);
     }
 }

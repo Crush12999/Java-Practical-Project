@@ -1,4 +1,4 @@
-package com.sryzzz.borrow.model.domain;
+package com.sryzzz.model.domain;
 
 import lombok.Data;
 import lombok.ToString;

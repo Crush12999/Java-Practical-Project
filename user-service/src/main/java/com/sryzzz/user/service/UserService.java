@@ -1,6 +1,6 @@
 package com.sryzzz.user.service;
 
-import com.sryzzz.user.model.domain.User;
+import com.sryzzz.model.domain.User;
 
 /**
  * @author: sryzzz
@@ -16,5 +16,5 @@ public interface UserService {
      * @param uid 用户id
      * @return 用户实例
      */
-    User getUserById(int uid);
+    User getUserById(Integer uid);
 }
